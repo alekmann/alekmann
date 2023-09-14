@@ -2,6 +2,7 @@
 
 - 🔭 Jeg jobber som ... Software developer
 - 🌱 Jeg kan ...
+    - TypeScript
     - JavaScript
     - CSS
     - HTML
