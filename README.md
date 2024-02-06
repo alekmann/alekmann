@@ -1,7 +1,7 @@
 ## About me 👋
 
-- 🔭 I’m currently working as an RPA developer at Telenor Norge
-- 🎓 Bachelor's degree in computer science from Norwegian University of Science and Technology.
+- 🔭 I’m currently working as an RPA developer at Telenor Norge.
+- 🎓 I have a Bachelor's degree in computer science from the Norwegian University of Science and Technology.
 
 ## 👨‍💻 Tech Stack
 
