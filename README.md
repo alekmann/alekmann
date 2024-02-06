@@ -1,6 +1,6 @@
 ### Dette jobber jeg med for tiden 👋
 
-- 🔭 Jeg er ... Software developer
+- 🔭 Jeg er ... RPA developer
 - 🌱 Jeg kan ...
     - TypeScript
     - JavaScript
