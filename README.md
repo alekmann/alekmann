@@ -1,7 +1,9 @@
 ### Dette jobber jeg med for tiden 👋
 
-- 🔭 Jeg er ... RPA developer
-- 🌱 Jeg kan ...
+- 🔭 I’m currently working at Telenor Norge
+- 🎓 Bachelor's degree in computer science from Norwegian University of Science and Technology.
+
+## 👨‍💻 Tech Stack
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
