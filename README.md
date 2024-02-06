@@ -1,6 +1,6 @@
-### Dette jobber jeg med for tiden 👋
+## About me 👋
 
-- 🔭 I’m currently working at Telenor Norge
+- 🔭 I’m currently working as an RPA developer at Telenor Norge
 - 🎓 Bachelor's degree in computer science from Norwegian University of Science and Technology.
 
 ## 👨‍💻 Tech Stack
@@ -16,3 +16,9 @@
 [![Flutter/Dart](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![MySQL/SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+## Connect with me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/aleksander-brekke-r%C3%B8ed-6b5b24258/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleroe99@gmail.com)
+
